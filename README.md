@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+初めて作成したRuby on Railsのプログラムです。
 
-Things you may want to cover:
+使い方
 
-* Ruby version
+1.リポジトリをローカルに落とす
+2.コマンドで、フォルダを移動する
+3.次のコマンドを打つ
+ $ bin/rails s
+ => Booting Puma
+ => Rails 5.2.3 application starting in development 
+ => Run `rails server -h` for more startup options
+ Puma starting in single mode...
+ * Version 3.12.1 (ruby 2.3.7-p456), codename: Llamas in Pajamas
+ * Min threads: 5, max threads: 5
+ * Environment: development
+ * Listening on tcp://localhost:3000
+ Use Ctrl-C to stop
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+http://localhost:3000
+にアクセスする。
