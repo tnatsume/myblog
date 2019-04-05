@@ -7,6 +7,7 @@
 1.リポジトリをローカルに落とす<br>
 2.コマンドで、フォルダを移動する<br>
 3.次のコマンドを打つ<br>
+[code]
  $ bin/rails s<br>
  => Booting Puma<br>
  => Rails 5.2.3 application starting in development <br>
@@ -17,7 +18,7 @@
  * Environment: development<br>
  * Listening on tcp://localhost:3000<br>
  Use Ctrl-C to stop<br><br><br><br>
-
+[/code]
 
 http://localhost:3000<br>
 にアクセスする。
